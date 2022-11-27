@@ -1,5 +1,3 @@
-# Demand Forecasting For FairStorage 
-
 # Summary
 
 In this project, we help Fairstorage build a efficient Machine Learning model to forecast the sales for every product in every store across regions for the next 21 days by leveraging historical data with the volume of sales done over the past 1920 days. Of course, our model has to be better than the conventional statistical models used for these use cases by the company so far. 
