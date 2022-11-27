@@ -52,4 +52,4 @@ This plot shows that most of our engineered features contributed to the model's 
 - In the future, we could sit together and work with the domain experts from supply chain management (Ex. Procurement Manager) for improved feature engineering and selection. 
 - Collecting relevant data such as weather, inventory data, discount, marketing, pricing, shelf life will increase the accuracy and reliability of the model.
 - We could consider using a better metric such as <b> Weighted Mean Absolute Error </b> (weighted by price or shelf life). This penalises the errors made on expensive products more as compared to cheaper products. This helps our use case in saving costs by making more accurate forecasts for set of products that are more sensitive (high in price or perishable in nature). 
-
+- We can also consider experimenting with developing separate models for each region to better forecast demand of the products.
