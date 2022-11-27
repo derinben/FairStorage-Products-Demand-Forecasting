@@ -17,9 +17,11 @@ Firstly, in order to keep the dataset processing light on my machine, I downcast
 We start with some data analysis to understand the layout of the data which helps us uncover some insights about the data collected so far. 
 
 <p align="center">
-<img src = https://user-images.githubusercontent.com/42509638/204120919-f774fdaa-5ffd-447c-ae1a-379341084cd0.png width = 500  height= 170 >
-<img src = https://user-images.githubusercontent.com/42509638/204120931-d3da8fdb-07b1-487a-a98a-a87958d0a667.png width = 500  height= 170>
-<img src = https://user-images.githubusercontent.com/42509638/204121253-a14cb7fb-603e-4ad3-adea-8385d228eeb0.png>
+<img src = https://user-images.githubusercontent.com/42509638/204121294-a8d34571-b842-49b7-bf8f-7f52d60dd93e.png width = 500  height= 170 >
+<img src = https://user-images.githubusercontent.com/42509638/204121283-062d3e19-8796-485a-88b0-a9bf5b3ef7e3.png width = 500  height= 170>
+<!-- <img src = https://user-images.githubusercontent.com/42509638/204121253-a14cb7fb-603e-4ad3-adea-8385d228eeb0.png> -->
+<!-- ![image](https://user-images.githubusercontent.com/42509638/204121283-062d3e19-8796-485a-88b0-a9bf5b3ef7e3.png)
+![image](https://user-images.githubusercontent.com/42509638/204121294-a8d34571-b842-49b7-bf8f-7f52d60dd93e.png) -->
 
 </p>
 
