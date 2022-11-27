@@ -15,8 +15,8 @@ The dataset consists of the different products represented by the product ID tha
 We start with some data analysis to understand the layout of the data which helps us uncover some insights about the data collected so far. 
 
 <p align="center">
-<img src = https://user-images.githubusercontent.com/42509638/204120919-f774fdaa-5ffd-447c-ae1a-379341084cd0.png width = 500 >
-<img src = https://user-images.githubusercontent.com/42509638/204120931-d3da8fdb-07b1-487a-a98a-a87958d0a667.png width = 500 >
+<img src = https://user-images.githubusercontent.com/42509638/204120919-f774fdaa-5ffd-447c-ae1a-379341084cd0.png width = 500 height= 100 >
+<img src = https://user-images.githubusercontent.com/42509638/204120931-d3da8fdb-07b1-487a-a98a-a87958d0a667.png width = 500  height= 100>
 </p>
 The plot shows how erratic the sales trends are and days where the product was never sold at all. This could be due the product going out of stock but since we have no inventory data available, this hypothesis couldn't be rationalized.
 
