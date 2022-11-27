@@ -28,12 +28,13 @@ From this, we learn that using a metric like Meaning Absolute Percentage Error (
 For exploratory analysis that could make the procurement manager's job easier is shown in the solution notebook.
 
 For the next part, we proceed with feature engineering. 
-1) Encode categorical features
-2) Include Lags (Shifts) - To capture auto correlation between values that are certain time period apart
-3) Mean encoding - We are again converting categorical features into numerical. This creates a feature that is more representative of the target variable by considering the avergage with respect to different product categories.
-4) Moving Average  (Rolling Mean) for statistical estimates at different points in time. 
-5) Expanding Mean - While the rolling window uses the same amount of observations each time, and the expanding window uses more and more observations each time.
-6) Trends - The selling trend feature will be positive if the daily items sold are greater than the entire duration average else negative.
+- Encode categorical features - Product Category
+- Include Lags (Shifts) - To capture auto correlation between values that are certain time period apart
+- Mean encoding - We are again converting categorical features into numerical. This creates a feature that is more representative of the target variable by considering the avergage with respect to different product categories.
+- Moving Average (Rolling Mean) - for statistical estimates at different points in time. 
+- Expanding Mean - While the rolling window uses the same amount of observations each time, and the expanding window uses more and more observations each time.
+- Trends - The selling trend feature will be positive if the daily items sold are greater than the entire duration average else negative.
+
 
 ## Modelling
 
@@ -43,7 +44,6 @@ We achieve a RMSE of 0.82 in the final model.
 
 ### Feature Importance Plot 
 This plot shows that most of our engineered features contributed to the model's predictions. 
-![image](https://user-images.githubusercontent.com/42509638/204121594-f700b3f9-9055-486c-98be-572a460fff17.png)
 ![image](https://user-images.githubusercontent.com/42509638/204121848-0542d450-acf5-4752-9276-b3afa596a983.png)
 
 
