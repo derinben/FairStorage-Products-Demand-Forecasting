@@ -1,16 +1,16 @@
 # Demand Forecasting For FairStorage 
 
-## Summary
+# Summary
 
 In this project, we help Fairstorage build a efficient Machine Learning model to forecast the sales for every product in every store across regions for the next 21 days by leveraging historical data with the volume of sales done over the past 1920 days. Of course, our model has to be better than the conventional statistical models used for these use cases by the company so far. 
 
 
-### Dataset 
+## Dataset 
 
 The dataset consists of the different products represented by the product ID that consists of the Item ID, Sub-Category ID, Category ID, Store ID and Region ID. The data also includes the past sales history (in units) over the past 1920 days. 
 
 
-### Methodology 
+## Methodology 
 
 Firstly, in order to keep the dataset processing light on my machine, I downcast the datatypes used in the dataset that helps in about 75% reduced memory usage while handling this dataset.
 
