@@ -44,6 +44,8 @@ We achieve a RMSE of 0.82 in the final model.
 ### Feature Importance Plot 
 This plot shows that most of our engineered features contributed to the model's predictions. 
 ![image](https://user-images.githubusercontent.com/42509638/204121594-f700b3f9-9055-486c-98be-572a460fff17.png)
+![image](https://user-images.githubusercontent.com/42509638/204121848-0542d450-acf5-4752-9276-b3afa596a983.png)
+
 
 ## For further improvements
 
